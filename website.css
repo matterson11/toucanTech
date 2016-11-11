@@ -1,0 +1,15 @@
+body {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.members-table{
+	width:100%;
+}
